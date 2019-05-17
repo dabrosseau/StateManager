@@ -11,6 +11,8 @@ namespace StateManager
     {
         static void Main(string[] args)
         {
+            // Tell user valid states and events.
+
             Console.WriteLine("Valid states are: Pending, Approved, Rejected");
             Console.WriteLine("Valid events are: Add, Update, Approve, Reject");
             Console.WriteLine("");
@@ -26,12 +28,6 @@ namespace StateManager
             Console.WriteLine(GetNewState(currentState, theEvent));
 
             Console.Read();
-
-            // This is an update to the update.
-            // This comment was added on GitHub in the master branch.
-            // This comment was added in VS.
-            // Yet another comment made in GitHub.
-            // More added in VS.
             
         }
 
