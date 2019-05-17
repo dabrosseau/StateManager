@@ -30,6 +30,7 @@ namespace StateManager
             // This is an update to the update.
             // This comment was added on GitHub in the master branch.
             // This comment was added in VS.
+            // Yet another comment made in GitHub.
             
         }
 
