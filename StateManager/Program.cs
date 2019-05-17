@@ -29,6 +29,8 @@ namespace StateManager
             string theEvent = Console.ReadLine();
             Console.WriteLine("");
 
+            // VS: Get the new state.
+
             Console.WriteLine(GetNewState(currentState, theEvent));
 
             Console.Read();
