@@ -41,6 +41,8 @@ namespace StateManager
         {
             string result = "";
 
+            // Switch on the event.
+
             switch (theEvent)
             {
                 case "Add":
