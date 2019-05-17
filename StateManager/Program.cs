@@ -23,6 +23,8 @@ namespace StateManager
             string currentState = Console.ReadLine();
             Console.WriteLine("");
 
+            // Prompt the user for the event that occurred.
+
             Console.WriteLine("Enter the event:");
             string theEvent = Console.ReadLine();
             Console.WriteLine("");
