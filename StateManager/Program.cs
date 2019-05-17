@@ -17,6 +17,8 @@ namespace StateManager
             Console.WriteLine("Valid events are: Add, Update, Approve, Reject");
             Console.WriteLine("");
 
+            // Prompt the user for the current state.
+
             Console.WriteLine("Enter the current state:");
             string currentState = Console.ReadLine();
             Console.WriteLine("");
