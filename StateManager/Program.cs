@@ -27,8 +27,8 @@ namespace StateManager
 
             Console.Read();
 
-            // This is an update.
-
+            // This is an update to the update.
+            
         }
 
         static private string GetNewState(string currentState, string theEvent)
