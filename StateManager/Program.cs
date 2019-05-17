@@ -33,6 +33,8 @@ namespace StateManager
 
             Console.WriteLine(GetNewState(currentState, theEvent));
 
+            // Read the character the user typed.
+            
             Console.Read();
             
         }
