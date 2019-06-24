@@ -39,6 +39,10 @@ namespace StateManager
 
             // Update1 in VS
             
+            // Update2 in GitHub
+
+            // Another update in VS
+            
         }
 
         static private string GetNewState(string currentState, string theEvent)
